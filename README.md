@@ -57,7 +57,7 @@ Prediction for a new patient
 
 ## 👩‍💻 Author
 
-**Tejaswini Madarapu**  
+**Ravichandana Madarapu**  
   Data science & ML Enthusiast  
 
 🔗 **GitHub:**  
@@ -65,4 +65,5 @@ https://github.com/Chandana-madarapu
 
 🔗 **LinkedIn:**  
 https://www.linkedin.com/in/chandana-madarapu-278783232/
+
 

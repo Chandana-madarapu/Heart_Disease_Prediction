@@ -58,10 +58,11 @@ Prediction for a new patient
 ## 👩‍💻 Author
 
 **Tejaswini Madarapu**  
-AIML Student | Python & ML Enthusiast  
+  Data science & ML Enthusiast  
 
 🔗 **GitHub:**  
-https://github.com/Tejaswini8888  
+https://github.com/Chandana-madarapu
 
 🔗 **LinkedIn:**  
-https://www.linkedin.com/in/tejaswini-madarapu/
+https://www.linkedin.com/in/chandana-madarapu-278783232/
+
